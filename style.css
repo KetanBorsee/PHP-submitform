@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.formset{
+    position:absolute;
+    top: 100px;
+    left: 100px;
+    padding: 2rem 2rem;
+   margin: 2rem 2rem;
+   transition: all 3s linear;
+  
+ }
+
+ .rock{
+  border: 2px solid rgb(0, 0, 0);
+  padding: 2rem;
+  text-align: center;
+  border-radius: 5px;
+
+ }
+ 
+.forminfo{
+    width: 75%;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#subbtn{
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+    border-radius:5px;
+    background-color:rgb(0, 43, 237);
+    color: white;
+   
+
+}
+
+
+ body{
+    overflow: hidden;
+    background: rgb(160, 212, 233);
+ }
